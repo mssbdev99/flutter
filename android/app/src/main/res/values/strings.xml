@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">rotary</string>
+    <!--TODO: Replace "000000000000" with your Facebook App ID here-->
+    <string name="facebook_app_id">315407518064813</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <!--TODO: Replace "YOUR_CLIENT_ACCESS_TOKEN" with your client access token here-->
+    <string name="facebook_client_token">c405a243693c411adda5489df7d40a70</string>
+</resources>

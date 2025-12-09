@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_api_key" translatable="false">AIzaSyDN-HtzZ-MxibUC7zcLvvllD9FBG9wme80</string>
+    <string name="gcm_defaultSenderId" translatable="false">1023109262362</string>
+    <string name="google_app_id" translatable="false">1:1023109262362:android:b39cc5507486c43e3bb5a3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDN-HtzZ-MxibUC7zcLvvllD9FBG9wme80</string>
+    <string name="project_id" translatable="false">rotarylogin-6e0b6</string>
+</resources>
